@@ -1,7 +1,7 @@
 const content = [
   {
     name: "stureplansgruppen",
-    img: "assets/spg.png",
+    img: "assets/spg.jpg",
     link: "https://www.stureplansgruppen.se/",
     github:"https://github.com/Stureplansgruppen/stureplansgruppen",
     description:
@@ -9,7 +9,7 @@ const content = [
   },
   {
     name: "insurely-kartan",
-    img: "assets/insurelykarta.png",
+    img: "assets/insurelykarta.jpg",
     link: "http://karta.insurely.se/",
     github: null,
     description:
@@ -17,7 +17,7 @@ const content = [
   },
   {
     name: "natten",
-    img: "assets/natten.png",
+    img: "assets/natten.jpg",
     link: "https://www.natten.eu/",
     github: "https://github.com/JohnArtur/natten",
     description:
@@ -25,7 +25,7 @@ const content = [
   },
   {
     name: "Portfolio",
-    img: "assets/portfolio.png",
+    img: "assets/portfolio.jpg",
     link: "https://www.wnordqvist.com",
     github:null,
     description:
@@ -41,7 +41,7 @@ const content = [
   },
   {
     name: "MovieSearch",
-    img: "assets/moviesearch.png",
+    img: "assets/moviesearch.jpg",
     link: "https://www.wnordqvist.com/moviesearch",
     github:"https://github.com/WilliamNordqvist/moovieSearch",
     description:
@@ -57,7 +57,7 @@ const content = [
   },
   {
     name: "Udemy - Svelte course",
-    img: "assets/svelte-course.png",
+    img: "assets/svelte-course.jpg",
     link: "http://wnordqvist.com/svelte-course/",
     github: null,
     description:
@@ -65,7 +65,7 @@ const content = [
   },
   {
     name: "Portfolio 2.0",
-    img: "assets/portfolio2.0.png",
+    img: "assets/portfolio2.jpg",
     link: "http://wnordqvist.com/portfolio2.0/",
     github: "https://github.com/WilliamNordqvist/Portfolio-React",
     description: "<p> The first project created with React. Basic portfolio using react-router, Particles background effect and a simple weather API request. </p> "
@@ -95,7 +95,7 @@ const content = [
   },
   {
     name: "Portfolio 1.0",
-    img: "assets/portfolio1.0.png",
+    img: "assets/portfolio1.jpg",
     link: "http://wnordqvist.com/portfolio1.0/",
     github: "https://github.com/WilliamNordqvist/portfolio-school",
     description:
