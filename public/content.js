@@ -48,6 +48,14 @@ const content = [
     "<p>Movie search app in React, using themoviedb API </p>"
   },
   {
+    name: "React-Native-Chart",
+    img: "assets/react-native-list.png",
+    link: "https://github.com/WilliamNordqvist/react-native-cart",
+    github:null,
+    description:
+    "<p>Shoppinglist created with React Native</p>"
+  },
+  {
     name: "Udemy - Svelte course",
     img: "assets/svelte-course.png",
     link: "http://wnordqvist.com/svelte-course/",
