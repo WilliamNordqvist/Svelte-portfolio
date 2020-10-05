@@ -1,0 +1,25 @@
+body {
+	color: #333;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+section {
+	height: auto;
+	max-width: 1400px;
+	margin:auto;
+}
+
+
+a { 
+	color:#333;
+}
+
+.Title{
+  width: 100%;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 200;
+  color: white;
+  text-transform: uppercase;
+}
