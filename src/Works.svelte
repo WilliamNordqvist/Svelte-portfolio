@@ -3,9 +3,9 @@
   import OverLay from "./components/Overlay.svelte";
   import { mobile } from "./components/store.js";
 
-  let spg = "assets/spg.png";
-  let insurely = "assets/insurelykarta.png";
-  let natten = "assets/natten.png";
+  // let spg = "assets/spg.png";
+  // let insurely = "assets/insurelykarta.png";
+  // let natten = "assets/natten.png";
   let selectedWork;
   let toggleOverlay = false;
 
@@ -34,6 +34,7 @@
     justify-content: center;
   }
   .card {
+    z-index: 2;
     height: 14em;
     width: 24em;
     margin: 1em;

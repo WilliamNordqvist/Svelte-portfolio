@@ -17,10 +17,11 @@
     left: 0;
     overflow: scroll;
     opacity: 1;
+    z-index: 2;
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: 0.5s all ease-in-out;
+    transition: 0.2s opacity ease-in-out;
   }
   .contentContainer {
     position: relative;
@@ -100,7 +101,7 @@
 
 <div
   class="section"
-  style={`opacity:${toggleOverlay ? '1' : '0'}; z-index:${toggleOverlay ? '1' : '-1'}`}>
+  style={`opacity:${toggleOverlay ? '1' : '0'}; z-index:${toggleOverlay ? '2' : '1'}`}>
   <div class="contentContainer">
     <div class="close" on:click={() => closeOverlay()}>
       <CloseIcon size="1.2em" />
